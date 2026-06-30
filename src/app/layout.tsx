@@ -16,7 +16,7 @@ const inter = Inter({
 });
 
 export const metadata: Metadata = {
-  metadataBase: new URL("https://asnextgen.com"), // Change this after deployment
+  metadataBase: new URL("https://a-snextgen-ojxnhnmlu-enickas-projects.vercel.app"), // Change this after deployment
 
   title: "AS NEXTGEN Pvt Ltd | Turning Dreams Into Digital Reality",
 
